@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Sample 5.0</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="navigation_header_text">Купи картошку</string>
+    <string name="price">1 000 000 RUB</string>
+    <string name="welcome_title">Привет!</string>
+    <string name="welcome_subtitle">У тебя уже есть аккаунт?</string>
+    <string name="welcome_login">Логин</string>
+    <string name="welcome_password">Пароль</string>
+    <string name="welcome_create">Создать аккаунт</string>
+    <string name="welcome_go">вперед</string>
+    <string name="create_login">Логин</string>
+    <string name="create_password">Пароль</string>
+    <string name="create_account">Создать аккаунт</string>
+</resources>
